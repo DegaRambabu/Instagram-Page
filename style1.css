@@ -1,0 +1,26 @@
+.btn
+{
+    background-color: blue;
+}
+.h5
+{
+    font-size: larger;
+}
+.body{
+    h5{
+        font-size: medium;
+        font-family: 'Courier New', Courier, monospace;
+        color: red;
+    }
+    text-align: center;
+    margin-left: 50px;
+}
+.p
+{
+    color: brown;
+}
+.card{
+    background-color: #7fffd4;
+    color: brown;
+    padding: 50px 30px;
+}
